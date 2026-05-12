@@ -1,5 +1,3 @@
-# -AI-Based-Movie-Recommendation-System
-
 # AI-Based Movie Recommendation System
 
 ## Project Overview
@@ -73,6 +71,8 @@ Dataset contains:
 Loaded movie and rating datasets using Pandas.
 
 ### 2. Exploratory Data Analysis (EDA)
+<img width="991" height="611" alt="Screenshot 2026-05-12 213658" src="https://github.com/user-attachments/assets/54e061ab-fcb2-47e3-8492-40f0d64add16" />
+
 Performed data understanding and visualization to analyze:
 - Movie genres
 - Data distribution
@@ -119,10 +119,12 @@ recommend_movies('Toy Story (1995)')
 
 ## Screenshots
 ### Exploratory Data Analysis
-(Add visualization screenshot here)
+<img width="1126" height="831" alt="Screenshot 2026-05-12 213818" src="https://github.com/user-attachments/assets/09baaaec-beb5-4afe-8238-e0a589e9b866" />
+
 
 ### Recommendation Output
-(Add recommendation result screenshot here)
+<img width="555" height="772" alt="Screenshot 2026-05-12 213953" src="https://github.com/user-attachments/assets/3714fb5f-8c4c-46e9-993d-db3a91e49521" />
+
 
 ---
 
@@ -155,5 +157,3 @@ This project demonstrates how Machine Learning techniques can be applied to buil
 ## Author
 Kirti Ramesh Gangarde
 
-LinkedIn: Add Your LinkedIn Link  
-GitHub: Add Your GitHub Link
